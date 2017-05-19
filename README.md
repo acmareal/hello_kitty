@@ -1,2 +1,2 @@
 # hello_kitty
-Just my firt github project repository
+Just my first github project repository
